@@ -1,4 +1,4 @@
-Name: Aanuoluwapo Olajide
+Full name: Aanuoluwapo Olajide
 Email address: aanujide@gmail.com
 Slack username: Aanu-J
 Tracks: Design and Frontend
